@@ -1,0 +1,216 @@
+.body {
+    padding-top: 112px;
+
+    &__h1 {
+        padding-top: 80px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        /* identical to box height, or 142% */
+        text-align: center;
+        letter-spacing: 0.2px;
+
+        /* text-color */
+
+        color: #252B42;
+    }
+
+    &__jeneralp {
+        padding-top: 10px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        /* or 143% */
+
+        text-align: center;
+        letter-spacing: 0.2px;
+
+        /* second-text-color */
+
+        color: #737373;
+
+    }
+
+    &__blocks {
+        padding-top: 50px;
+        display: flex;
+
+    }
+
+    &__block1 {
+        width: 230px;
+        height: 209px;
+      
+    }
+
+    &__img1 {
+        
+        padding: 32px 91px 0 91px;
+    }
+
+    &__h2 {
+        padding-top: 12px;
+        text-align: center;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        /* identical to box height, or 142% */
+
+        letter-spacing: 0.2px;
+
+        /* text-color */
+
+        color: #252B42;
+    }
+
+    &__p2 {
+        padding-top: 10px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+
+        text-align: center;
+        letter-spacing: 0.1px;
+
+        /* second-text-color */
+
+        color: #737373;
+
+    }
+
+    &__block2 {
+        width: 230px;
+        height: 209px;
+     
+margin-left: 38px;
+    }
+
+ 
+
+    &__img2 {
+        
+        padding: 41px 91px 0 91px;
+    }
+
+    &__h3 {
+        padding-top: 21px;
+        text-align: center;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        /* identical to box height, or 142% */
+
+        letter-spacing: 0.2px;
+
+        /* text-color */
+
+        color: #252B42;
+    }
+
+    &__p3 {
+        padding-top: 10px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+
+        text-align: center;
+        letter-spacing: 0.1px;
+
+        /* second-text-color */
+
+        color: #737373;
+
+    }
+
+
+    
+    &__img3 {
+        
+        padding: 34px 91px 0 91px;
+    }
+
+    &__h4 {
+        padding-top: 10px;
+        text-align: center;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        /* identical to box height, or 142% */
+
+        letter-spacing: 0.2px;
+
+        /* text-color */
+
+        color: #252B42;
+    }
+
+    &__p4{
+        padding-top: 10px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+
+        text-align: center;
+        letter-spacing: 0.1px;
+
+        /* second-text-color */
+
+        color: #737373;
+
+    }
+
+
+    &__h5 {
+        padding-top: 13px;
+        text-align: center;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        /* identical to box height, or 142% */
+
+        letter-spacing: 0.2px;
+
+        /* text-color */
+
+        color: #252B42;
+    }
+
+    &__p5{
+        padding-top: 10px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+
+        text-align: center;
+        letter-spacing: 0.1px;
+
+        /* second-text-color */
+
+        color: #737373;
+
+    }
+}

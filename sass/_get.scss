@@ -1,0 +1,249 @@
+.get {
+    padding-top: 80px;
+    background: #F3F3F3;
+
+    &__h2 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        text-align: center;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 57px;
+        /* identical to box height, or 142% */
+
+        letter-spacing: 0.2px;
+
+        /* text-color */
+
+        color: #252B42;
+    }
+
+    &__p {
+        padding-top: 10px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        /* or 143% */
+
+        text-align: center;
+        letter-spacing: 0.2px;
+
+        /* second-text-color */
+
+        color: #737373;
+    }
+
+    &__blocks {
+        display: flex;
+    }
+
+
+    &__block1 {
+        padding: 50px 53px;
+        margin-top: 110px;
+        width: 328px;
+        height: 333px;
+        background: #FFFFFF;
+    }
+
+    &__img1 {
+        width: 72px;
+        height: 72px;
+        margin: 0 80px;
+        display: flex;
+        align-items: center;
+    }
+
+    &__email1 {
+        padding-top: 15px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 24px;
+        /* identical to box height, or 171% */
+
+        text-align: center;
+        letter-spacing: 0.2px;
+
+        /* text-color */
+
+        color: #252B42;
+
+    }
+
+    &__email2 {
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 24px;
+        /* identical to box height, or 171% */
+
+        text-align: center;
+        letter-spacing: 0.2px;
+
+        /* text-color */
+
+        color: #252B42;
+
+    }
+
+    &__h5 {
+        padding-top: 15px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+
+        text-align: center;
+        letter-spacing: 0.1px;
+
+        /* text-color */
+
+        color: #252B42;
+
+    }
+
+    &__btn {
+        margin: 15px 0 0 33px;
+        padding: 10px 20px;
+
+        /* primary-color */
+
+        border: 1px solid #FFA62B;
+        border-radius: 5px;
+
+        background: none;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 24px;
+        /* identical to box height, or 171% */
+
+        text-align: center;
+        letter-spacing: 0.2px;
+
+        /* primary-color */
+
+        color: #FFA62B;
+
+    }
+
+    &__block1:hover {
+        transform: scale(1.1);
+        transition: 1s;
+    }
+
+    &__block2 {
+        margin-left: 15px;
+        padding: 50px 53px;
+        margin-top: 110px;
+        width: 328px;
+        height: 333px;
+        background: #252B42;
+    }
+
+    &__block2:hover {
+        transform: scale(1.1);
+        transition: 1s;
+    }
+
+
+    &__email3 {
+        padding-top: 15px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 24px;
+        /* identical to box height, or 171% */
+
+        text-align: center;
+        letter-spacing: 0.2px;
+
+        /* light-text-color */
+
+        color: #FFFFFF;
+
+    }
+
+    &__email4 {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 24px;
+        /* identical to box height, or 171% */
+
+        text-align: center;
+        letter-spacing: 0.2px;
+
+        /* light-text-color */
+
+        color: #FFFFFF;
+
+    }
+
+
+    &__h6 {
+        padding-top: 15px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+
+        text-align: center;
+        letter-spacing: 0.1px;
+
+        /* light-text-color */
+
+        color: #FFFFFF;
+    }
+
+    &__btn3{
+        background: none;
+        padding: 10px 20px;
+        margin:15px 0 0  33px;
+
+        font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+/* light-text-color */
+
+color: #FFFFFF;
+
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+    }
+
+    &__block3 {
+        margin-left: 15px;
+        padding: 50px 53px;
+        margin-top: 110px;
+        width: 328px;
+        height: 333px;
+        background: #FFFFFF;
+    }
+
+    &__block3:hover {
+        transform: scale(1.1);
+        transition: 1s;
+    }
+
+}

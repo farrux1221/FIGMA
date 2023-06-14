@@ -1,0 +1,147 @@
+.with {
+
+    background: #FAFAFA;
+    width: 100%;
+    margin-top: 100px;
+
+    &__photos {
+      
+      margin-left: 30px;
+        padding-top: 70px;
+        display: flex;
+  
+    }
+
+    &__photo1 {
+        width: 103px;
+        height: 34px;
+    }
+
+    &__photo2 {
+        width: 83px;
+        height: 59px;
+        margin-left: 86px;
+    }
+
+    &__photo3 {
+        width: 102px;
+        height: 75px;
+        margin-left: 86px;
+    }
+
+    &__photo4 {
+        width: 103px;
+        height: 42px;
+        margin-left: 79px;
+    }
+
+    &__photo5 {
+        width: 104px;
+        height: 62px;
+        margin-left: 77px;
+    }
+
+    &__photo6 {
+        width: 76px;
+        height: 72px;
+        margin-left: 91px;
+    }
+
+    &__inputer{
+        margin-left: 30px;
+        padding: 33px 50px;
+        width: 986px;
+       top: 70px;
+        
+        /* secondary-color-2 */
+        
+        background: #16697A;
+        border-radius: 2px;
+
+        position: relative;
+        display: flex;
+        align-items: center;
+        
+    }
+
+   
+
+    &__h4{
+        font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+
+
+letter-spacing: 0.1px;
+
+
+color: #FFFFFF;
+    }
+
+    &__block2 {
+        text-align: center;
+     display: flex;
+    padding-left: 130px;
+    }
+
+    &__block2 input{
+        outline: none;
+        padding-left: 20px;
+        font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 28px;
+/* identical to box height, or 200% */
+
+letter-spacing: 0.2px;
+
+/* second-text-color */
+
+color: #737373;
+
+        background: #F9F9F9;
+        border: 1px solid #E6E6E6;
+        border-radius: 5px;
+        width: 380px;
+        height: 58px;
+    }
+
+    &__input{
+        position: relative;
+       right: 100px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 28px;
+/* identical to box height, or 200% */
+
+text-align: center;
+letter-spacing: 0.2px;
+
+/* light-text-color */
+
+color: #FFFFFF;
+
+background: #FFA62B;
+border: 1px solid #E6E6E6;
+border-radius: 0px 5px 5px 0px;
+
+width: 117px;
+height: 58px;
+
+display: flex;
+align-items: center;
+justify-content: center;
+    }
+
+    &__blue{
+     
+        background: #252B42;
+        width: 100%;
+        height: 77px;
+    }
+}
